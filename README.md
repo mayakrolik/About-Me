@@ -8,8 +8,8 @@ As of fall 2023, I have completed extensive lab-work in 6.1010 (Fundamentals in 
 * Image processing
   * hand-programming kernels to apply custom filters
   * seam carving
-* Lots of BFS!
-* conjunctive normal form (CNF) boolean solver
+* Lots of BFS and DFS!
+* Conjunctive normal form (CNF) boolean solver - Sudoku Solver
 * Object Oriented Programming
 * Creating and traversing through custom-made graph datastructures
 * Python-based LISP interpreter
