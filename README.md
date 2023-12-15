@@ -6,7 +6,7 @@ I am a freshman at MIT studying 6-4 (Artificial Intelligence and Decision Making
 Extensive lab-work from 6.1010 (Fundamentals in Programming) from MIT. Unfortunately I cannot publish these to the public (that is if I want to graduate without getting into serious trouble). Some of my favorite projects include:
 
 * Image projessing
-* * hand-programming kernels to apply custom filters
+  * hand-programming kernels to apply custom filters
   * seam carving
 * Lots of BFS!
 * conjunctive normal form (CNF) boolean solver
